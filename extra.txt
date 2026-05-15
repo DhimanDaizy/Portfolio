@@ -1,0 +1,46 @@
+```
+
+---
+
+# REQUIRED FOLDER STRUCTURE
+
+```text
+portfolio/
+│
+├── index.html
+├── style.css
+├── script.js
+├── resume.pdf
+│
+├── videos/
+│   ├── nutribyte.mp4
+│   ├── gesture.mp4
+│   ├── math.mp4
+│   └── rl.mp4
+```
+
+---
+
+# IMPORTANT
+
+Replace these links with your actual links:
+
+```html
+https://github.com/
+https://linkedin.com/
+https://your-demo-link.com
+```
+
+Replace:
+
+```text
+yourmail@gmail.com
+```
+
+with your real email.
+
+Also place your actual resume file as:
+
+```text
+resume.pdf
+```
